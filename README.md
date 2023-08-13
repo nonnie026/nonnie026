@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working with Nestjs, Nextjs and React/React-native + Redux<br>🌱 I’m currently learning Nextjs and data science<br>💬 Ask me about ...<br>⚡ Fun fact - I'm a self-taught developer
+🔭 I’m currently working with Nextjs and React/React-native + Redux<br>🌱 I’m learning Nextjs and data science<br>💬 Ask me about ...<br>⚡ Fun fact - I'm a self-taught developer
 
 
 ## 🌐 Socials:
